@@ -198,7 +198,7 @@
         function processActualWeather(data) {
             icon.className = getIconClassName(data.weather[0], new Date(data.dt * 1000));
             temp.innerHTML = momentWithCorrectUtcOffset(new Date()).format("MM-DD");
-            city.innerHTML = data.name;
+            city.innerHTML = "chengdu" === data.name ?"成都" : data.name;
             description.innerHTML = data.weather[0].description + "<br><br>" + Math.round(data.main.temp) + unitsSymbolHtml;
             lastUpdate.innerHTML = momentWithCorrectUtcOffset(new Date()).format("HH:mm");
             var sunrise = momentWithCorrectUtcOffset(new Date(data.sys.sunrise * 1000));
