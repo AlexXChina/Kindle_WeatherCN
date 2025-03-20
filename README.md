@@ -2,8 +2,6 @@
 Kindle WeatherCN，中文台历系统
 原理：内置浏览器 访问H5页面
 
-[原贴地址](https://www.kura.ren/archives/%E6%8A%98%E8%85%BE%E6%97%A5%E6%9C%9F%E5%BA%9F%E7%89%A9%E5%88%A9%E7%94%A8%E6%94%B9%E9%80%A0kindle%E4%B8%BA%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E6%97%A5%E5%8E%86)
-
 ![Image text](https://raw.githubusercontent.com/0111/Kindle_WeatherCN/main/00-JustSoso.jpg)
 
 # 重要的第一步：关闭屏幕休眠模式
@@ -88,3 +86,8 @@ Kindle磁盘
 正确配置后，选择“应用配置”
 
 在新页面加载后，保存该书签即可。
+
+[原贴地址](https://www.kura.ren/archives/%E6%8A%98%E8%85%BE%E6%97%A5%E6%9C%9F%E5%BA%9F%E7%89%A9%E5%88%A9%E7%94%A8%E6%94%B9%E9%80%A0kindle%E4%B8%BA%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E6%97%A5%E5%8E%86)
+
+[天气API openweathermap](https://home.openweathermap.org/)
+
