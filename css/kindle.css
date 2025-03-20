@@ -54,7 +54,7 @@ html.night {
 
 #temp {
     font-size: 200px;
-    font-size: 18rem;
+    font-size: 15rem;
     display: inline-block;
     font-weight: bolder;
     text-align: center;
@@ -64,15 +64,15 @@ html.night {
 .tempWrapper {
     position: absolute;
     right: 3%;
-    top: 8%;
+    top: 10%;
 }
 
 #lastUpdate {
     position: relative;
-    top: 20%;
+    top: 25%;
     left: 0%;
     font-size: 50px;
-    font-size: 38rem;
+    font-size: 30rem;
     font-weight: bolder;
     text-align: center;
     font-family: electronicFont;
@@ -102,7 +102,7 @@ html.night {
 .forecast {
     position: absolute;
     width: 100%;
-    bottom: 7%;
+    bottom: 10%;
     left: 0;
     border-top: 5px solid black;
     border-bottom: 1px solid black;
@@ -141,11 +141,11 @@ html.night {
 
 #sun {
     position: absolute;
-    bottom: 0%;
+    bottom: 3%;
     left: 3%;
     font-size: 30px;
     font-size: 4.9rem;
-    font-weight:bolder;
+    font-weight: bolder;
 }
 
 .forecastIconWrapper {
@@ -161,7 +161,7 @@ html.night {
     top: 8%;
     font-size: 50px;
     font-size: 8rem;
-    font-weight:bolder;
+    font-weight: bolder;
 }
 
 .colTime {
