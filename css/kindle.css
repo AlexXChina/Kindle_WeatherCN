@@ -188,13 +188,13 @@ html.night {
 }
 
 .landscape #city {
-    font-size: 35.4px;
-    font-size: 7rem;
+    font-size: 20px;
+    font-size: 6rem;
 }
 
 .landscape #temp {
-    font-size: 141.7px;
-    font-size: 28rem;
+    font-size: 70px;
+    font-size: 20rem;
     font-weight: bolder;
     text-align: center;
 }
