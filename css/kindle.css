@@ -101,11 +101,11 @@ html.night {
 .forecast {
     position: absolute;
     width: 100%;
-    bottom: 11%;
+    bottom: 12%;
     left: 0;
     border-top: 5px solid black;
     border-bottom: 1px solid black;
-    height: 42%;
+    height: 40%;
 }
 
 .night .forecast {
@@ -141,6 +141,7 @@ html.night {
 #sun {
     position: absolute;
     bottom: 2%;
+    top: 85%;
     left: 3%;
     font-size: 30px;
     font-size: 4.9rem;
@@ -193,7 +194,7 @@ html.night {
 
 .landscape #temp {
     font-size: 141.7px;
-    font-size: 28rem;
+    font-size: 24rem;
     font-weight: bolder;
     text-align: center;
 }
